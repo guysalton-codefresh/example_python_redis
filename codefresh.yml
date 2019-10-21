@@ -7,7 +7,7 @@ steps:
   main_clone:
     type: "git-clone"
     description: "Cloning main repository..."
-    repo: "codefreshdemo/example_python_redis"
+    repo: "guysalton-codefresh/example_python_redis"
     revision: "master"
     git: github-guy
     stage: prepare
